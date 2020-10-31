@@ -1,0 +1,16 @@
+окт 31, 2020 11:21:56 PM Lesson02.go chekSize
+WARNING: Ошибка заданного размера массива 4х4
+окт 31, 2020 11:21:56 PM Lesson02.go parse
+WARNING: For input string: "args2"
+окт 31, 2020 11:21:56 PM Lesson02.go parse
+WARNING: For input string: "args2"
+окт 31, 2020 11:21:56 PM Lesson02.go parse
+WARNING: For input string: "args2"
+окт 31, 2020 11:21:56 PM Lesson02.go parse
+WARNING: For input string: "args2"
+окт 31, 2020 11:21:56 PM Lesson02.go parse
+WARNING: For input string: "args2"
+окт 31, 2020 11:21:56 PM Lesson02.go parse
+WARNING: For input string: "args2"
+окт 31, 2020 11:21:56 PM Lesson02.go main
+INFO: [15, 15, 15, 15, 15, 15]
